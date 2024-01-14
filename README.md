@@ -13,7 +13,8 @@ The Program was created in IntelliJ Idea using Java 17, JavaFX 17 and Gradle as 
 * You might need to specify the preferred JDK now, the JavaFX Libraries should be taken care off by Gradle
  
 ### Execute the program
-* Use the mensabor run configuration to run the Project
+* Create a new run configuration using Gradle with "run" as Task
+* Execute that configuration
 
 ### How to use
 
